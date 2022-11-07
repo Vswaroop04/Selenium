@@ -7,7 +7,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.setProperty("webdriver.edge.driver", "C:\\Users\\kaush\\Desktop\\Selenium\\SeleniumTool\\src\\drivers\\msedgedriver.exe");
+        System.setProperty("webdriver.edge.driver", "C:\\Users\\vishnu\\Desktop\\Selenium\\SeleniumTool\\src\\drivers\\msedgedriver.exe");
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Choose Your Task");
